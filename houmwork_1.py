@@ -1,5 +1,8 @@
-print('Hi, PyCharm')
-x = 43
-y = 32
-print(x * y)
-print("End line")
+name = "Timofei"
+print (name)
+age = 26
+print(age)
+age = 26 + 28
+print(age)
+is_student = True
+print(is_student)

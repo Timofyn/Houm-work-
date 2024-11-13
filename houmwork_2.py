@@ -1,9 +1,5 @@
-first = int(input("Введите первое число, "))
-second = int(input("Введите второе число, "))
-third = int(input("Введите третье число, "))
-if first == second == third:
-    print(3)
-elif first == second or second == third or first == third:
-    print(2)
-elif first != second != third:
-    print(0)
+name1 = 12
+name2 = 1.5
+name3 = 'Python'
+name4 = 0.125
+print (name3, 'всего задачь:', name1, 'затрачено часов:', name2, 'среднее время выполнения', name4, 'часов')
